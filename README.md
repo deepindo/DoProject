@@ -12,7 +12,30 @@
 ### FeedBack
 大家有任何想法或者宝贵的建议，都欢迎大家提Issue或者pull request,我会及时更新。
 
-### 目录
+### 主目录
+
+- [基础搭建](#基础搭建)
+  - [引导页@](#引导页)
+  - [广告页@](#广告页)
+  - [网络请求@](#网络请求)
+  - [数据库相关@](#数据库相关)
+  - [图片缓存@](#图片缓存)
+  - [推送功能@](#推送功能)
+  - [Bug统计功能@](#bugly)
+  - [分享功能@](#友盟分享)
+  - [支付功能@](#支付)
+- [个性化功能](#个性化功能)
+  - [动画@](#动画)
+
+- [优化](https://www.jianshu.com/p/b8346c1a4145?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends)    iOS性能优化的探索
+
+- [MAC相关](https://www.waitsun.com/aboutus/help)文件损坏相关帮助--爱情守望者网站
+
+
+
+
+
+### 源目录
 
 以下为[TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS)所总结的源目录，我会按个人总结的项目需求，做整理。
 
