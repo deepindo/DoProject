@@ -1,16 +1,28 @@
 # DoProject
-[![Test Status](https://travis-ci.org/douban/rexxar-ios.svg?branch=master)](https://travis-ci.org/douban/rexxar-ios)
-[![Language](https://img.shields.io/badge/language-ObjC-blue.svg)](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)  
+
+<p align='left'>
+
+<img src="https://img.shields.io/github/stars/deepindo/DoProject.svg">
+<img src="https://img.shields.io/github/forks/deepindo/DoProject.svg">
+<img src="https://img.shields.io/badge/platform-iOS-ff69b4.svg">
+<img src="https://img.shields.io/badge/PR-welcome%20!-brightgreen.svg?colorA=a0cd34">
+<img src="https://img.shields.io/packagist/l/doctrine/orm.svg">
+
+</p>
 
 ### About
 从项目搭建开始，基本要使用的技术或者工具，相关技术链接或者博客地址等，后面为一些功能的实现方式，或者工具链接，更贴近一个完整项目所需要的。
 
 ### How to Use
+
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> + <kbd>"xxx@"</kbd> to search for a keyword
 - Go through our *Content Menu*
 
 ### FeedBack
-大家有任何想法或者宝贵的建议，都欢迎大家提Issue或者pull request,我会及时更新。
+
+> 大家有任何想法或者宝贵的建议，都欢迎大家提Issue或者pull request,我会及时更新。
+> 
+> **deepindo@foxmail.com**
 
 ### 主目录
 
@@ -212,7 +224,8 @@
 - [后台@](#后台)
 - [AppHTTPServer@](#AppHTTPServer)
 
-#### 具体内容 =============================
+
+***
 
 #### 完整App@
 
@@ -1698,4 +1711,3 @@
 * [learn-git-basics](https://github.com/NataliaLKB/learn-git-basics) - git指南.
 * [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-tw/README.md) 30 天精通 Git 版本控管.
 * [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html) - 图解git中的最常用命令.
-* [沉浸式学 Git](http://igit
